@@ -1,0 +1,9 @@
+{
+  "id": "prompt-mixer-openrouter-connector",
+  "name": "OpenRouter Connector",
+  "version": "1.0.0",
+  "description": "OpenRouter Connector for Prompt Mixer - Access multiple AI models through a single API",
+  "author": "Prompt Mixer",
+  "authorUrl": "https://github.com/prompt-mixer",
+  "isDesktopOnly": false
+}
