@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.13.4",
+    "axios": "^1.13.5",
     "builtin-modules": "^5.0.0",
     "esbuild": "^0.27.2",
     "openai": "^6.17.0"
